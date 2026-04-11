@@ -1,0 +1,26 @@
+#config_version=6
+
+switches:
+  #Cabinet Switches
+  s_flipper_left:
+    number: 0-0-27
+    tags: left_flipper
+  s_flipper_rigt:
+    number: 1-0-1
+    tags: right_flipper
+  #Trough Switches
+  s_drain:
+    number: 1-0-3
+    tags: Drain kickout 
+  s_trough_1:
+    number: 1-0-8
+    tags: Trough Slot 1
+  s_trough_2:
+    number: 1-0-9
+    tags: Trough Slot 2
+  s_trough_3:
+    number: 1-0-10
+    tags: Trough Slot 3
+  s_plunger_lane:
+    number: 1-0-11
+    tags: Plunger Lane                      

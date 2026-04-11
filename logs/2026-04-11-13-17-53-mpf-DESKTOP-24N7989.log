@@ -1,0 +1,69 @@
+2026-04-11 13:17:53,800 : INFO : root : Loading config.
+2026-04-11 13:17:53,804 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-11 13:17:53,804 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-11 13:17:53,804 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml.
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\config\config.yaml.
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_ball_devices.yaml
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_coils.yaml
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_switches.yaml
+2026-04-11 13:17:53,818 : INFO : ConfigProcessor : Config file cache created: C:\Users\Lukas\AppData\Local\Temp\32f39c1debf2d9ee836c41c94f408ffc.mpf_cache
+2026-04-11 13:17:53,873 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-11 13:17:53,873 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\d5d281e4d67cd36b56e6e575dc21d22a.mpf_cache
+2026-04-11 13:17:53,882 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-11 13:17:53,883 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\e915a77df2eb7c954f1557e6bd49ea48.mpf_cache
+2026-04-11 13:17:53,883 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-11 13:17:53,883 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-11-13-17-53-mpf-DESKTOP-24N7989.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-11-13-17-53-mpf-DESKTOP-24N7989.log'}
+2026-04-11 13:17:53,883 : INFO : Machine : MPF path: C:\Users\Lukas\mpftspp\lib\site-packages\mpf
+2026-04-11 13:17:53,883 : INFO : Machine : Machine path: C:\Users\Lukas\Documents\TSPP
+2026-04-11 13:17:53,883 : INFO : Machine : Platform: win32
+2026-04-11 13:17:53,883 : INFO : Machine : Python executable location: C:\Users\Lukas\mpftspp\Scripts\python.exe
+2026-04-11 13:17:53,883 : INFO : Machine : Python version: 3.10.0 (64-bit)
+2026-04-11 13:17:53,900 : INFO : Machine : Initializing MPF...
+2026-04-11 13:17:53,965 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-04-11 13:17:53,983 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-04-11 13:17:53,983 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-04-11 13:17:53,983 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-04-11 13:17:53,983 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.10.0', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-11-13-17-53-mpf-DESKTOP-24N7989.log', 'prev_value': None, 'change': True}
+2026-04-11 13:17:54,021 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-04-11 13:17:54,030 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...pty config.")>) at C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...pty config.")>) at C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\events.py:124>
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\device_manager.py", line 83, in _load_device_modules
+    self.create_devices(collection_name, config)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\device_manager.py", line 119, in create_devices
+    self.raise_config_error("Device {}:'{}' has an empty config.".format(collection_name, device_name), 2,
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\logging.py", line 175, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in DeviceManager: Device ball_devices:'bd_drain' has an empty config. Context: ball_devices.bd_drain Error Code: CFE-DeviceManager-2 (https://missionpinball.org/latest/logs)
+2026-04-11 13:17:54,043 : INFO : Machine : Starting the main run loop with active modes: []
+2026-04-11 13:17:54,043 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2026-04-11 13:17:54,043 : INFO : Machine : Shutting down...
+2026-04-11 13:17:54,043 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-04-11 13:17:55,058 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 810, in _run_loop
+    raise self._exception['exception']
+  File "C:\Program Files\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\device_manager.py", line 83, in _load_device_modules
+    self.create_devices(collection_name, config)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\device_manager.py", line 119, in create_devices
+    self.raise_config_error("Device {}:'{}' has an empty config.".format(collection_name, device_name), 2,
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\logging.py", line 175, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in DeviceManager: Device ball_devices:'bd_drain' has an empty config. Context: ball_devices.bd_drain Error Code: CFE-DeviceManager-2 (https://missionpinball.org/latest/logs)
+2026-04-11 13:17:55,060 : INFO : root : MPF run loop ended.

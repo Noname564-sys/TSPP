@@ -1,0 +1,9 @@
+#config_version=6
+
+coils:
+  c_drain_eject:
+    number: 1-0-0
+    default_pulse_ms: 20
+  c_trough_release:
+    number: 1-0-7
+    default_pulse_ms: 20  
