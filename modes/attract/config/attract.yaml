@@ -9,4 +9,4 @@ slide_player:
 sound_player:
   mode_attract_started:
     intro_music:
-      bus:intro_music
+      bus: music
