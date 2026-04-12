@@ -1,0 +1,185 @@
+2026-04-12 11:00:48,744 : INFO : root : Loading config.
+2026-04-12 11:00:48,751 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-12 11:00:48,753 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-12 11:00:48,753 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml.
+2026-04-12 11:00:48,772 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml
+2026-04-12 11:00:48,773 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\config\config.yaml.
+2026-04-12 11:00:48,777 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-12 11:00:48,781 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_ball_devices.yaml
+2026-04-12 11:00:48,787 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_coils.yaml
+2026-04-12 11:00:48,791 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_switches.yaml
+2026-04-12 11:00:48,793 : INFO : ConfigProcessor : Config file cache created: C:\Users\Lukas\AppData\Local\Temp\32f39c1debf2d9ee836c41c94f408ffc.mpf_cache
+2026-04-12 11:00:49,709 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-12 11:00:49,712 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\d5d281e4d67cd36b56e6e575dc21d22a.mpf_cache
+2026-04-12 11:00:49,714 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-12 11:00:49,715 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Lukas\Documents\TSPP\modes\base\config\base.yaml
+2026-04-12 11:00:49,715 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\modes\base\config\base.yaml.
+2026-04-12 11:00:49,717 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\modes\base\config\base.yaml
+2026-04-12 11:00:49,719 : INFO : ConfigProcessor : Config file cache created: C:\Users\Lukas\AppData\Local\Temp\e915a77df2eb7c954f1557e6bd49ea48.mpf_cache
+2026-04-12 11:00:49,720 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\modes\slingshots\config\slingshots.yaml.
+2026-04-12 11:00:49,721 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\modes\slingshots\config\slingshots.yaml
+2026-04-12 11:00:49,723 : INFO : ConfigProcessor : Config file cache created: C:\Users\Lukas\AppData\Local\Temp\6720abd7d78775ec476d92be447cc36c.mpf_cache
+2026-04-12 11:00:49,724 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-12 11:00:49,724 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-12-11-00-48-mpf-DESKTOP-24N7989.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-12-11-00-48-mpf-DESKTOP-24N7989.log'}
+2026-04-12 11:00:49,724 : INFO : Machine : MPF path: C:\Users\Lukas\mpftspp\lib\site-packages\mpf
+2026-04-12 11:00:49,725 : INFO : Machine : Machine path: C:\Users\Lukas\Documents\TSPP
+2026-04-12 11:00:49,725 : INFO : Machine : Platform: win32
+2026-04-12 11:00:49,725 : INFO : Machine : Python executable location: C:\Users\Lukas\mpftspp\Scripts\python.exe
+2026-04-12 11:00:49,725 : INFO : Machine : Python version: 3.10.0 (64-bit)
+2026-04-12 11:00:49,727 : INFO : Machine : Initializing MPF...
+2026-04-12 11:00:50,720 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,890 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,890 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,890 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,890 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.10.0', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,926 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,926 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,926 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,927 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,927 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,927 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-12-11-00-48-mpf-DESKTOP-24N7989.log', 'prev_value': None, 'change': True}
+2026-04-12 11:00:50,927 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-04-12 11:00:51,018 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-04-12 11:00:51,021 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-04-12 11:00:51,029 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-04-12 11:01:02,544 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2026-04-12 11:01:02,545 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2026-04-12 11:01:02,546 : INFO : ball_device.bd_drain : BCH: Initial count: 0
+2026-04-12 11:01:02,546 : INFO : ball_device.bd_drain : State: idle
+2026-04-12 11:01:02,569 : INFO : ball_device.bd_trough : BCH: Initial count: 0
+2026-04-12 11:01:02,570 : INFO : ball_device.bd_trough : State: idle
+2026-04-12 11:01:02,570 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2026-04-12 11:01:02,570 : INFO : ball_device.bd_plunger : State: idle
+2026-04-12 11:01:02,627 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-04-12 11:01:02,629 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-04-12 11:01:02,630 : INFO : BallController : Initial balls found: 0
+2026-04-12 11:01:02,631 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,631 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,631 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_o'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,631 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_kickout'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,632 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_drain'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,632 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,632 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_rigt'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,632 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_u'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,632 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_right'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_left'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_m'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_ramp_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-04-12 11:01:02,633 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-04-12 11:01:02,634 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-04-12 11:01:02,634 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-04-12 11:01:02,645 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-04-12 11:01:02,645 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-04-12 11:01:02,645 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-04-12 11:01:02,646 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-04-12 11:01:02,647 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:02,647 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:02,647 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:02,648 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-04-12 11:01:02,649 : INFO : Mode.attract : Started. Priority: 10
+2026-04-12 11:01:02,649 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-12 11:01:02,649 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-04-12 11:01:02,649 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-04-12 11:01:02,649 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': None, 'item': 'title'}
+2026-04-12 11:01:02,649 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:02,650 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-04-12 11:01:02,673 : INFO : EventManager : Event: ======'slide_attract_created'====== Args={'_from_bcp': True}
+2026-04-12 11:01:02,673 : INFO : EventManager : Event: ======'slide__removed'====== Args={'_from_bcp': True}
+2026-04-12 11:01:02,673 : INFO : EventManager : Event: ======'slide_attract_active'====== Args={'original_context': 'attract', 'original_calling_context': 'mode_attract_started', 'priority': 10.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-04-12 11:01:07,644 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:07,644 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:07,644 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:07,644 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:07,644 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-04-12 11:01:07,645 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:07,645 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:07,645 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:12,655 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:12,656 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:12,656 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:12,656 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:12,656 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-04-12 11:01:12,658 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:12,659 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:12,659 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:17,665 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:17,665 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:17,665 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:17,665 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:17,667 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-04-12 11:01:17,667 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:17,668 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:17,668 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:22,679 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:22,680 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:22,680 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:22,680 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:22,680 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-04-12 11:01:22,681 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:22,682 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:22,682 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:27,697 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:27,697 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:27,698 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:27,698 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:27,698 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-04-12 11:01:27,700 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:27,700 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:27,700 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:32,692 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:32,693 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:32,693 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:32,693 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:32,694 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-04-12 11:01:32,695 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:32,695 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:32,695 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:37,700 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:37,700 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:37,700 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:37,701 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:37,701 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-04-12 11:01:37,702 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:37,702 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:37,702 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:42,710 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:42,710 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:42,710 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:42,710 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:42,710 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-04-12 11:01:42,711 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:42,711 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:42,711 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:47,722 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:47,722 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:47,722 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:47,723 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:47,723 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'title'}
+2026-04-12 11:01:47,724 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:47,724 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:47,724 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:52,727 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:52,727 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:52,728 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:52,728 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:52,728 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'credits'}
+2026-04-12 11:01:52,730 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:52,730 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:52,731 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:57,741 : INFO : Timer.attract_carousel_timer : Timer Complete
+2026-04-12 11:01:57,741 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-12 11:01:57,741 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:57,741 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_complete'====== Args={'ticks': 1, 'ticks_remaining': 1}
+2026-04-12 11:01:57,742 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': 'forwards', 'item': 'mpf_logo'}
+2026-04-12 11:01:57,743 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-12 11:01:57,743 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:57,743 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-12 11:01:57,920 : INFO : Machine : Shutting down...
+2026-04-12 11:01:57,920 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-04-12 11:01:57,924 : INFO : root : MPF run loop ended.

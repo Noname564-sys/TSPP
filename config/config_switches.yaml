@@ -1,7 +1,37 @@
 #config_version=6
 
 switches:
+  #playfield Switches
+  #J2
+  s_sling_left:
+    number: 0-0-26
+    tags: left_Slingshot 
+  s_kickout:
+    number: 0-0-25
+    tags: Kickout_under_playfield     
+  s_dt_u:
+    number: 0-0-24
+    tags: Drop_Target_u 
+  s_dt_m:
+    number: 0-0-19
+    tags: Drop_Target_m
+  s_dt_o:
+    number: 0-0-18
+    tags: Drop_Target_o
+  s_homer_h:
+    number: 0-0-17
+    tags: Switch_Homer_h
+  s_ramp_1:
+    number: 0-0-16
+    tags: Rampe1                       
+  #J3
+  s_sling_right:
+    number: 1-0-2
+    tags: right_Slingshot
   #Cabinet Switches
+  s_start:
+    number: 0-0-1
+    tags: start
   s_flipper_left:
     number: 0-0-27
     tags: left_flipper

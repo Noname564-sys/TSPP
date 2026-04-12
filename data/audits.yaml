@@ -1,0 +1,44 @@
+events:
+  game_ended: 0
+  game_started: 4
+missing_switches:
+  s_drain: 4
+  s_dt_m: 4
+  s_dt_o: 4
+  s_dt_u: 4
+  s_flipper_left: 4
+  s_flipper_rigt: 4
+  s_kickout: 2
+  s_plunger_lane: 4
+  s_ramp_1: 4
+  s_start: 2
+  s_trough_1: 4
+  s_trough_2: 4
+  s_trough_3: 4
+player:
+  score:
+    average: 0
+    top: []
+    total: 0
+shots:
+  homer_h: 6
+  hurryup: 2
+  slingshot_left: 35
+  slingshot_right: 24
+switches:
+  s_drain: 0
+  s_dt_m: 0
+  s_dt_o: 0
+  s_dt_u: 0
+  s_flipper_left: 0
+  s_flipper_rigt: 0
+  s_homer_h: 6
+  s_kickout: 1
+  s_plunger_lane: 0
+  s_ramp_1: 0
+  s_sling_left: 35
+  s_sling_right: 24
+  s_start: 2
+  s_trough_1: 0
+  s_trough_2: 0
+  s_trough_3: 0
