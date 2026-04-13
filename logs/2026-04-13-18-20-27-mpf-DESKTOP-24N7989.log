@@ -1,0 +1,49 @@
+2026-04-13 18:20:27,116 : INFO : root : Loading config.
+2026-04-13 18:20:27,121 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-13 18:20:27,122 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-13 18:20:27,122 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml.
+2026-04-13 18:20:27,136 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml
+2026-04-13 18:20:27,137 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\config\config.yaml.
+2026-04-13 18:20:27,137 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config.yaml
+2026-04-13 18:20:27,137 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_ball_devices.yaml
+2026-04-13 18:20:27,140 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_coils.yaml
+2026-04-13 18:20:27,144 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_switches.yaml
+2026-04-13 18:20:27,145 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\Documents\TSPP\config\config_common.yaml
+2026-04-13 18:20:27,147 : INFO : ConfigProcessor : Config file cache created: C:\Users\Lukas\AppData\Local\Temp\32f39c1debf2d9ee836c41c94f408ffc.mpf_cache
+2026-04-13 18:20:27,249 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-13 18:20:27,251 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\d5d281e4d67cd36b56e6e575dc21d22a.mpf_cache
+2026-04-13 18:20:27,252 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-13 18:20:27,255 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\e915a77df2eb7c954f1557e6bd49ea48.mpf_cache
+2026-04-13 18:20:27,256 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\6720abd7d78775ec476d92be447cc36c.mpf_cache
+2026-04-13 18:20:27,258 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\5c55177e8fd0a80aca73e5066ec16461.mpf_cache
+2026-04-13 18:20:27,261 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-13 18:20:27,262 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-13-18-20-27-mpf-DESKTOP-24N7989.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-13-18-20-27-mpf-DESKTOP-24N7989.log'}
+2026-04-13 18:20:27,262 : INFO : Machine : MPF path: C:\Users\Lukas\mpftspp\lib\site-packages\mpf
+2026-04-13 18:20:27,262 : INFO : Machine : Machine path: C:\Users\Lukas\Documents\TSPP
+2026-04-13 18:20:27,262 : INFO : Machine : Platform: win32
+2026-04-13 18:20:27,262 : INFO : Machine : Python executable location: C:\Users\Lukas\mpftspp\Scripts\python.exe
+2026-04-13 18:20:27,262 : INFO : Machine : Python version: 3.10.0 (64-bit)
+2026-04-13 18:20:27,265 : INFO : Machine : Initializing MPF...
+2026-04-13 18:20:27,290 : ERROR : ConfigValidator : Your config contains a value for the setting "opp:port", but this is not a valid setting name.
+2026-04-13 18:20:27,292 : ERROR : Machine : Failed to initialize MPF
+Traceback (most recent call last):
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 688, in initialize_mpf
+    raise init.exception()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 250, in initialize
+    await self.initialize_core_and_hardware()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 236, in initialize_core_and_hardware
+    self._load_hardware_platforms()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 492, in _load_hardware_platforms
+    self.add_platform(hardware_platform)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 622, in add_platform
+    self.hardware_platforms[name] = hardware_platform(self)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\platforms\opp\opp.py", line 78, in __init__
+    self.config = self.machine.config_validator.validate_config("opp", self.machine.config.get('opp', {}))
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Your config contains a value for the setting "opp:port", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/latest/logs)
+2026-04-13 18:20:27,326 : INFO : root : MPF run loop ended.

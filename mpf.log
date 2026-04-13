@@ -1,0 +1,118 @@
+2026-04-13 20:21:15,623 : INFO : root : Loading config.
+2026-04-13 20:21:15,626 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-13 20:21:15,626 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\32f39c1debf2d9ee836c41c94f408ffc.mpf_cache
+2026-04-13 20:21:15,684 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-13 20:21:15,684 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-13 20:21:15,685 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-13 20:21:15,686 : DEBUG : YamlMultifileConfigLoader : Loading mode game from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\game\config\game.yaml
+2026-04-13 20:21:15,686 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\d5d281e4d67cd36b56e6e575dc21d22a.mpf_cache
+2026-04-13 20:21:15,687 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-13 20:21:15,687 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-13 20:21:15,687 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-13 20:21:15,688 : DEBUG : YamlMultifileConfigLoader : Loading mode base from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\base\config\base.yaml
+2026-04-13 20:21:15,688 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\e915a77df2eb7c954f1557e6bd49ea48.mpf_cache
+2026-04-13 20:21:15,689 : DEBUG : YamlMultifileConfigLoader : Loading mode slingshots from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\slingshots\config\slingshots.yaml
+2026-04-13 20:21:15,689 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\6720abd7d78775ec476d92be447cc36c.mpf_cache
+2026-04-13 20:21:15,690 : DEBUG : YamlMultifileConfigLoader : Loading mode hurryup from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\hurryup\config\hurryup.yaml
+2026-04-13 20:21:15,690 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\5c55177e8fd0a80aca73e5066ec16461.mpf_cache
+2026-04-13 20:21:15,691 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-13 20:21:15,691 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'mpf.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 10, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Lukas\\Documents\\TSPP\\mpf.log'}
+2026-04-13 20:21:15,691 : INFO : Machine : MPF path: C:\Users\Lukas\mpftspp\lib\site-packages\mpf
+2026-04-13 20:21:15,691 : INFO : Machine : Machine path: C:\Users\Lukas\Documents\TSPP
+2026-04-13 20:21:15,691 : INFO : Machine : Platform: win32
+2026-04-13 20:21:15,691 : INFO : Machine : Python executable location: C:\Users\Lukas\mpftspp\Scripts\python.exe
+2026-04-13 20:21:15,691 : INFO : Machine : Python version: 3.10.0 (64-bit)
+2026-04-13 20:21:15,692 : DEBUG : asyncio : Using proactor: IocpProactor
+2026-04-13 20:21:15,693 : INFO : Machine : Initializing MPF...
+2026-04-13 20:21:15,759 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,759 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,759 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,759 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A282190>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449700>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A4498A0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001D13A6D2EC0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Blur: <mpf.core.text_ui.MpfLayout object at 0x000001D13A6D92A0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449CB0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449BE0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449D80>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449B10>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449A40>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001D13A449970>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001D13A6D2F80>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001D13A6D2EC0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Focus: <mpf.core.text_ui.MpfLayout object at 0x000001D13A6D92A0>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001D13A6D2F80>
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.frame : Cloning: Test
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,760 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,761 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-13 20:21:15,764 : DEBUG : asciimatics.screen : Processing key: d
+2026-04-13 20:21:15,972 : INFO : OPP : Connecting to COM4 at 115200bps
+2026-04-13 20:21:21,763 : DEBUG : asciimatics.screen : Processing mouse: 105, 13
+2026-04-13 20:21:21,763 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (105, 13) 1
+2026-04-13 20:21:21,764 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.frame.Frame object at 0x000001D13A3F0910>]
+2026-04-13 20:21:21,765 : DEBUG : asciimatics.screen : Processing mouse: 105, 13
+2026-04-13 20:21:21,765 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (105, 13) 0
+2026-04-13 20:21:21,766 : DEBUG : asciimatics.screen : Processing mouse: 104, 13
+2026-04-13 20:21:21,766 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (104, 13) 0
+2026-04-13 20:21:22,755 : DEBUG : asciimatics.screen : Processing mouse: 98, 15
+2026-04-13 20:21:22,755 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (98, 15) 0
+2026-04-13 20:21:22,756 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:23,757 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:24,763 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:25,763 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:25,764 : DEBUG : asciimatics.screen : Processing key: 18
+2026-04-13 20:21:25,764 : DEBUG : asciimatics.widgets.frame : New event: KeyboardEvent: 24
+2026-04-13 20:21:25,764 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:25,765 : DEBUG : asciimatics.screen : Processing key: 78
+2026-04-13 20:21:25,765 : DEBUG : asciimatics.screen : Processing mouse: 65, 15
+2026-04-13 20:21:25,765 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (65, 15) 0
+2026-04-13 20:21:26,750 : DEBUG : asciimatics.screen : Processing mouse: 65, 15
+2026-04-13 20:21:26,750 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (65, 15) 1
+2026-04-13 20:21:26,750 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.frame.Frame object at 0x000001D13A3F0910>]
+2026-04-13 20:21:26,751 : DEBUG : asciimatics.screen : Processing mouse: 65, 15
+2026-04-13 20:21:26,752 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (65, 15) 4
+2026-04-13 20:21:26,752 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.frame.Frame object at 0x000001D13A3F0910>]
+2026-04-13 20:21:26,753 : DEBUG : asciimatics.screen : Processing mouse: 65, 15
+2026-04-13 20:21:26,753 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (65, 15) 0
+2026-04-13 20:21:26,754 : DEBUG : asciimatics.screen : Processing mouse: 58, 15
+2026-04-13 20:21:26,754 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (58, 15) 0
+2026-04-13 20:21:26,754 : DEBUG : asciimatics.screen : Processing key: 0
+2026-04-13 20:21:27,029 : INFO : Machine : Starting the main run loop with active modes: []
+2026-04-13 20:21:27,029 : ERROR : root : 'attract'
+Traceback (most recent call last):
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\commands\game.py", line 229, in __init__
+    self.machine.run()
+  File "C:\Users\Lukas\mpftspp\lib\site-packages\mpf\core\machine.py", line 703, in run
+    if not self.modes['attract'] in self.mode_controller.active_modes:
+KeyError: 'attract'

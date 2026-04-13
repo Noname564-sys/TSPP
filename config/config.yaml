@@ -6,11 +6,20 @@
 # drivers, ball devices, hardware platforms, and more. You can
 # include everything here, or create sub-config files to be
 # imported and merged with this one.
+#dd
+hardware:
+  platform: opp
+  #driverboards: gen2
+
+opp:
+  ports: COM4, COM5
+
 
 config:
   - config_ball_devices.yaml
   - config_coils.yaml
   - config_switches.yaml
+  - config_common.yaml
 
 
 modes:
@@ -23,6 +32,9 @@ playfields:
   playfield:
     default_source_device: bd_trough
     tags: default 
+
+machine:
+  balls_installed: 3    
 
 virtual_platform_start_active_switches:
   - s_trough_1

@@ -1,43 +1,48 @@
 events:
   game_ended: 0
-  game_started: 4
+  game_started: 9
 missing_switches:
-  s_drain: 4
-  s_dt_m: 4
-  s_dt_o: 4
-  s_dt_u: 4
-  s_flipper_left: 4
-  s_flipper_rigt: 4
-  s_kickout: 2
-  s_plunger_lane: 4
-  s_ramp_1: 4
-  s_start: 2
-  s_trough_1: 4
-  s_trough_2: 4
-  s_trough_3: 4
+  s_drain: 9
+  s_dt_m: 9
+  s_dt_o: 9
+  s_dt_u: 9
+  s_flipper_left: 2
+  s_flipper_right: 2
+  s_flipper_rigt: 7
+  s_homer_h: 1
+  s_kickout: 7
+  s_plunger_lane: 2
+  s_ramp_1: 9
+  s_sling_left: 2
+  s_sling_right: 1
+  s_start: 7
+  s_trough_1: 9
+  s_trough_2: 9
+  s_trough_3: 9
 player:
   score:
     average: 0
     top: []
     total: 0
 shots:
-  homer_h: 6
-  hurryup: 2
-  slingshot_left: 35
-  slingshot_right: 24
+  homer_h: 12
+  hurryup: 5
+  slingshot_left: 39
+  slingshot_right: 28
 switches:
   s_drain: 0
   s_dt_m: 0
   s_dt_o: 0
   s_dt_u: 0
-  s_flipper_left: 0
+  s_flipper_left: 3
+  s_flipper_right: 0
   s_flipper_rigt: 0
-  s_homer_h: 6
+  s_homer_h: 12
   s_kickout: 1
-  s_plunger_lane: 0
+  s_plunger_lane: 2
   s_ramp_1: 0
-  s_sling_left: 35
-  s_sling_right: 24
+  s_sling_left: 39
+  s_sling_right: 28
   s_start: 2
   s_trough_1: 0
   s_trough_2: 0
