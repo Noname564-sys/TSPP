@@ -3,6 +3,7 @@
 # Attract mode that starts when the machine boots up, stops
 # whenever a game is started, and re-starts after the game ends.
 
+  
 mode_settings:
   selectable_items:
     - title
