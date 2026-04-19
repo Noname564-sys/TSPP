@@ -1,0 +1,609 @@
+2026-04-15 20:38:26,189 : INFO : root : Loading config.
+2026-04-15 20:38:26,193 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-15 20:38:26,193 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\32f39c1debf2d9ee836c41c94f408ffc.mpf_cache
+2026-04-15 20:38:26,256 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-15 20:38:26,256 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-15 20:38:26,257 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-15 20:38:26,257 : DEBUG : YamlMultifileConfigLoader : Loading mode game from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\game\config\game.yaml
+2026-04-15 20:38:26,257 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\d5d281e4d67cd36b56e6e575dc21d22a.mpf_cache
+2026-04-15 20:38:26,257 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-15 20:38:26,257 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-15 20:38:26,257 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\1cf6e080e232be7da984fc3f9f606af5.mpf_cache
+2026-04-15 20:38:26,257 : DEBUG : YamlMultifileConfigLoader : Loading mode base from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\base\config\base.yaml
+2026-04-15 20:38:26,260 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\e915a77df2eb7c954f1557e6bd49ea48.mpf_cache
+2026-04-15 20:38:26,260 : DEBUG : YamlMultifileConfigLoader : Loading mode slingshots from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\slingshots\config\slingshots.yaml
+2026-04-15 20:38:26,260 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\6720abd7d78775ec476d92be447cc36c.mpf_cache
+2026-04-15 20:38:26,262 : DEBUG : YamlMultifileConfigLoader : Loading mode hurryup from C:\Users\Lukas\mpftspp\lib\site-packages\mpf\modes\hurryup\config\hurryup.yaml
+2026-04-15 20:38:26,262 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Lukas\AppData\Local\Temp\5c55177e8fd0a80aca73e5066ec16461.mpf_cache
+2026-04-15 20:38:26,262 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-15 20:38:26,262 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-15-20-38-26-mpf-DESKTOP-24N7989.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 10, 'consoleloglevel': 20, 'force_platform': 'smart_virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-15-20-38-26-mpf-DESKTOP-24N7989.log'}
+2026-04-15 20:38:26,262 : INFO : Machine : MPF path: C:\Users\Lukas\mpftspp\lib\site-packages\mpf
+2026-04-15 20:38:26,263 : INFO : Machine : Machine path: C:\Users\Lukas\Documents\TSPP
+2026-04-15 20:38:26,263 : INFO : Machine : Platform: win32
+2026-04-15 20:38:26,263 : INFO : Machine : Python executable location: C:\Users\Lukas\mpftspp\Scripts\python.exe
+2026-04-15 20:38:26,263 : INFO : Machine : Python version: 3.10.0 (64-bit)
+2026-04-15 20:38:26,263 : DEBUG : asyncio : Using proactor: IocpProactor
+2026-04-15 20:38:26,265 : INFO : Machine : Initializing MPF...
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8485D9150>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AC860>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACA00>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C84899FD00>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Blur: <mpf.core.text_ui.MpfLayout object at 0x000001C84891AD50>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACE10>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACD40>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACEE0>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACC70>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACBA0>
+2026-04-15 20:38:26,331 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489ACAD0>
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C84899FDC0>
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C84899FD00>
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Focus: <mpf.core.text_ui.MpfLayout object at 0x000001C84891AD50>
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C84899FDC0>
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.frame : Cloning: Test
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:26,333 : DEBUG : asciimatics.screen : Processing key: d
+2026-04-15 20:38:26,447 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,464 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,464 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,464 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,464 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.10.0', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.26200-SP0', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26200', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Lukas\\Documents\\TSPP\\logs\\2026-04-15-20-38-26-mpf-DESKTOP-24N7989.log', 'prev_value': None, 'change': True}
+2026-04-15 20:38:26,479 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-04-15 20:38:26,480 : DEBUG : ModeController : Loaded mode base
+2026-04-15 20:38:26,484 : DEBUG : ModeController : Loaded mode game
+2026-04-15 20:38:26,484 : DEBUG : ModeController : Loaded mode hurryup
+2026-04-15 20:38:26,484 : DEBUG : ModeController : Loaded mode slingshots
+2026-04-15 20:38:26,488 : DEBUG : ModeController : Loaded mode attract
+2026-04-15 20:38:26,496 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-04-15 20:38:26,496 : INFO : SwitchController : Found active switch: ('1-0-8', <Platform.SmartVirtual>) <switch.s_trough_1>
+2026-04-15 20:38:26,496 : INFO : SwitchController : Found active switch: ('1-0-9', <Platform.SmartVirtual>) <switch.s_trough_2>
+2026-04-15 20:38:26,496 : INFO : SwitchController : Found active switch: ('1-0-10', <Platform.SmartVirtual>) <switch.s_trough_3>
+2026-04-15 20:38:26,498 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Updating: message
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Updating: message
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.textbox.TextBox object at 0x000001C8484A7400>
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C8455F76A0>
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C8455F7520>
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C8455F76A0>
+2026-04-15 20:38:26,508 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C8455F7520>
+2026-04-15 20:38:26,508 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-04-15 20:38:34,350 : DEBUG : asciimatics.screen : Processing mouse: 82, 18
+2026-04-15 20:38:34,350 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (45, 5) 0
+2026-04-15 20:38:35,356 : DEBUG : asciimatics.screen : Processing mouse: 83, 18
+2026-04-15 20:38:35,357 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (46, 5) 0
+2026-04-15 20:38:35,358 : DEBUG : asciimatics.screen : Processing mouse: 83, 18
+2026-04-15 20:38:35,358 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (46, 5) 1
+2026-04-15 20:38:35,358 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (83, 18) 1
+2026-04-15 20:38:35,358 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.popupdialog.PopUpDialog object at 0x000001C848B354B0>, <asciimatics.widgets.frame.Frame object at 0x000001C84864AE90>]
+2026-04-15 20:38:35,359 : DEBUG : asciimatics.screen : Processing mouse: 83, 18
+2026-04-15 20:38:35,359 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (83, 18) 0
+2026-04-15 20:38:35,359 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (46, 5) 0
+2026-04-15 20:38:36,347 : DEBUG : asciimatics.screen : Processing mouse: 83, 18
+2026-04-15 20:38:36,348 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (83, 18) 1
+2026-04-15 20:38:36,348 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.popupdialog.PopUpDialog object at 0x000001C848B354B0>, <asciimatics.widgets.frame.Frame object at 0x000001C84864AE90>]
+2026-04-15 20:38:36,349 : DEBUG : asciimatics.screen : Processing mouse: 83, 18
+2026-04-15 20:38:36,349 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (83, 18) 0
+2026-04-15 20:38:36,349 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (46, 5) 0
+2026-04-15 20:38:38,360 : DEBUG : asciimatics.screen : Processing mouse: 84, 29
+2026-04-15 20:38:38,361 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (84, 29) 0
+2026-04-15 20:38:38,361 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (47, 16) 0
+2026-04-15 20:38:41,090 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2026-04-15 20:38:41,092 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,097 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,098 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,098 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,098 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,098 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AFB90>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AF370>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AFAC0>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C848B68C40>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Blur: <mpf.core.text_ui.MpfLayout object at 0x000001C848ABDC40>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AF850>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AF9F0>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AF030>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AE260>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AEA80>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.widget : Widget blur: <asciimatics.widgets.label.Label object at 0x000001C8489AF2A0>
+2026-04-15 20:38:41,099 : DEBUG : asciimatics.widgets.layout : Blur: <asciimatics.widgets.layout.Layout object at 0x000001C848B68EE0>
+2026-04-15 20:38:41,100 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C848B68C40>
+2026-04-15 20:38:41,100 : DEBUG : asciimatics.widgets.layout : Focus: <mpf.core.text_ui.MpfLayout object at 0x000001C848ABDC40>
+2026-04-15 20:38:41,100 : DEBUG : asciimatics.widgets.layout : Focus: <asciimatics.widgets.layout.Layout object at 0x000001C848B68EE0>
+2026-04-15 20:38:41,100 : DEBUG : asciimatics.widgets.frame : Cloning: Test
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,101 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,102 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,102 : DEBUG : asciimatics.widgets.layout : Updating: None
+2026-04-15 20:38:41,348 : INFO : ball_device.bd_drain : BCH: Initial count: 0
+2026-04-15 20:38:41,387 : INFO : ball_device.bd_drain : State: idle
+2026-04-15 20:38:41,388 : INFO : ball_device.bd_trough : BCH: Initial count: 3
+2026-04-15 20:38:41,388 : INFO : ball_device.bd_trough : State: idle
+2026-04-15 20:38:41,389 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2026-04-15 20:38:41,389 : INFO : ball_device.bd_plunger : State: idle
+2026-04-15 20:38:41,392 : DEBUG : YAML File Interface : Loading file: C:\Users\Lukas\Documents\TSPP\data/audits.yaml
+2026-04-15 20:38:41,399 : DEBUG : Machine : "info_lights:" section not found in machine configuration, so the InfoLights will not be used.
+2026-04-15 20:38:41,402 : DEBUG : Machine : "switch_player:" section not found in machine configuration, so the SwitchPlayer will not be used.
+2026-04-15 20:38:41,409 : DEBUG : Machine : "twitch_client:" section not found in machine configuration, so the TwitchBot will not be used.
+2026-04-15 20:38:41,409 : DEBUG : Machine : "virtual_segment_display_connector:" section not found in machine configuration, so the VirtualSegmentDisplayConnector will not be used.
+2026-04-15 20:38:41,409 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-04-15 20:38:41,410 : DEBUG : ShowController : Loading show: flash
+2026-04-15 20:38:41,411 : DEBUG : ShowController : Loading show: on
+2026-04-15 20:38:41,411 : DEBUG : ShowController : Loading show: off
+2026-04-15 20:38:41,411 : DEBUG : ShowController : Loading show: led_color
+2026-04-15 20:38:41,412 : DEBUG : ShowController : Loading show: bl_color
+2026-04-15 20:38:41,412 : DEBUG : ShowController : Loading show: flash_color
+2026-04-15 20:38:41,413 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-04-15 20:38:41,413 : INFO : BallController : Initial balls found: 3
+2026-04-15 20:38:41,416 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,416 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,416 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_drain'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,416 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_dt_m'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_dt_o'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_dt_u'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_flipper_left'====== Args={'value': 4, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_flipper_right'====== Args={'value': 4, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_flipper_rigt'====== Args={'value': 7, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_homer_h'====== Args={'value': 2, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_kickout'====== Args={'value': 12, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_ramp_1'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_sling_right'====== Args={'value': 2, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_start'====== Args={'value': 2, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_trough_1'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_trough_2'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_missing_switches_s_trough_3'====== Args={'value': 14, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'average': 0, 'top': [], 'total': 0}, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_shots_homer_h'====== Args={'value': 18, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,417 : INFO : EventManager : Event: ======'machine_var_audits_shots_hurryup'====== Args={'value': 8, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_left'====== Args={'value': 41, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_right'====== Args={'value': 33, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_drain'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_m'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_o'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_dt_u'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 4, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_right'====== Args={'value': 2, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,419 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_rigt'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 18, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_kickout'====== Args={'value': 1, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 4, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_ramp_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_left'====== Args={'value': 41, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_right'====== Args={'value': 33, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_start'====== Args={'value': 3, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-15 20:38:41,420 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-04-15 20:38:41,436 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-04-15 20:38:41,436 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-04-15 20:38:41,448 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-04-15 20:38:41,449 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-04-15 20:38:41,449 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={'queue': <QueuedEvent>}
+2026-04-15 20:38:41,450 : INFO : Timer.attract_carousel_timer : Starting Timer.
+2026-04-15 20:38:41,450 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-15 20:38:41,450 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-15 20:38:41,451 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={'queue': <QueuedEvent>}
+2026-04-15 20:38:41,452 : INFO : Mode.attract : Started. Priority: 10
+2026-04-15 20:38:41,452 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:38:41,452 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={'queue': <QueuedEvent>}
+2026-04-15 20:38:41,453 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-04-15 20:38:41,454 : INFO : EventManager : Event: ======'carousel_item_highlighted'====== Args={'carousel': 'attract', 'direction': None, 'item': 'title'}
+2026-04-15 20:38:41,454 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-15 20:38:41,454 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-04-15 20:38:41,471 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-04-15 20:38:41,487 : INFO : EventManager : Event: ======'slide_attract_created'====== Args={'_from_bcp': True}
+2026-04-15 20:38:41,488 : INFO : EventManager : Event: ======'slide__removed'====== Args={'_from_bcp': True}
+2026-04-15 20:38:41,488 : INFO : EventManager : Event: ======'slide_attract_active'====== Args={'original_context': 'attract', 'original_calling_context': 'mode_attract_started', 'priority': 10.0, 'queue': '<QueuedEvent>', 'cmd': 'slides_play', '_from_bcp': True}
+2026-04-15 20:38:44,612 : INFO : SwitchController : <<<<<<< 's_start' active >>>>>>>
+2026-04-15 20:38:44,680 : INFO : SwitchController : <<<<<<< 's_start' inactive >>>>>>>
+2026-04-15 20:38:44,680 : INFO : EventManager : Event: ======'request_to_start_game'====== Args={}
+2026-04-15 20:38:44,680 : INFO : EventManager : Event: ======'game_start'====== Args={'buttons': [], 'hold_time': 0.062000000005355105}
+2026-04-15 20:38:44,680 : INFO : EventManager : Event: ======'mode_game_will_start'====== Args={'buttons': [], 'hold_time': 0.062000000005355105}
+2026-04-15 20:38:44,681 : INFO : EventManager : Event: ======'mode_game_starting'====== Args={'buttons': [], 'hold_time': 0.062000000005355105}
+2026-04-15 20:38:44,681 : INFO : EventManager : Event: ======'mode_attract_will_stop'====== Args={}
+2026-04-15 20:38:44,682 : INFO : EventManager : Event: ======'mode_attract_stopping'====== Args={}
+2026-04-15 20:38:44,682 : INFO : Mode.attract : Stopped.
+2026-04-15 20:38:44,682 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:38:44,682 : INFO : EventManager : Event: ======'mode_attract_stopped'====== Args={}
+2026-04-15 20:38:44,682 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'attract'}
+2026-04-15 20:38:44,682 : INFO : Timer.attract_carousel_timer : Stopping Timer
+2026-04-15 20:38:44,682 : INFO : EventManager : Event: ======'timer_attract_carousel_timer_stopped'====== Args={'ticks': 0, 'ticks_remaining': 1}
+2026-04-15 20:38:44,683 : INFO : Mode.game : Started. Priority: 20
+2026-04-15 20:38:44,683 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:38:44,683 : INFO : EventManager : Event: ======'mode_game_started'====== Args={'buttons': [], 'hold_time': 0.062000000005355105}
+2026-04-15 20:38:44,698 : INFO : EventManager : Event: ======'game_will_start'====== Args={}
+2026-04-15 20:38:44,698 : INFO : EventManager : Event: ======'game_starting'====== Args={'game': <Mode.game>}
+2026-04-15 20:38:44,698 : DEBUG : Auditor : Enabling the Auditor
+2026-04-15 20:38:44,699 : INFO : EventManager : Unordered handler for class <Auditor> on event game_ended with priority 1. Handlers: [RegisteredHandler(callback=<bound method Auditor.disable of <Auditor>>, priority=1, kwargs={}, key=UUID('e884e906-59fa-4279-ac3d-6a2fb914014f'), condition=None, blocking_facility=None), RegisteredHandler(callback=<bound method Auditor._save_audits of <Auditor>>, priority=1, kwargs={}, key=UUID('f50090ab-ee76-453f-9c43-d9b9bc35478f'), condition=None, blocking_facility=None)]. The order of those handlers is not defined and they will be executed in random order. This might lead to race conditions and potential bugs.
+2026-04-15 20:38:44,699 : INFO : EventManager : Event: ======'player_add_request'====== Args={}
+2026-04-15 20:38:44,699 : INFO : EventManager : Event: ======'player_will_add'====== Args={'number': 1}
+2026-04-15 20:38:44,699 : DEBUG : Player : Creating new player: Player 1. (player index '0')
+2026-04-15 20:38:44,699 : DEBUG : Player : Setting 'score' to: 0, (prior: 0, change: 0)
+2026-04-15 20:38:44,699 : INFO : EventManager : Event: ======'player_adding'====== Args={'player': <Player 1>, 'number': 1}
+2026-04-15 20:38:44,699 : INFO : EventManager : Event: ======'player_added'====== Args={'player': <Player 1>, 'num': 1}
+2026-04-15 20:38:44,699 : INFO : Mode.game : Player added successfully. Total players: 1
+2026-04-15 20:38:44,700 : INFO : EventManager : Event: ======'player_index'====== Args={'value': 0, 'prev_value': 0, 'change': 0, 'player_num': 1}
+2026-04-15 20:38:44,700 : INFO : EventManager : Event: ======'player_number'====== Args={'value': 1, 'prev_value': 1, 'change': 0, 'player_num': 1}
+2026-04-15 20:38:44,700 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 0, 'prev_value': 0, 'change': 0, 'player_num': 1}
+2026-04-15 20:38:44,701 : INFO : EventManager : Event: ======'game_started'====== Args={}
+2026-04-15 20:38:44,728 : INFO : EventManager : Event: ======'player_turn_will_start'====== Args={'player': <Player 1>, 'number': 1}
+2026-04-15 20:38:44,728 : INFO : EventManager : Event: ======'player_turn_starting'====== Args={'player': <Player 1>, 'number': 1}
+2026-04-15 20:38:44,728 : DEBUG : Player : Setting 'ball' to: 1, (prior: 0, change: 1)
+2026-04-15 20:38:44,728 : INFO : EventManager : Event: ======'player_ball'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:38:44,729 : INFO : EventManager : Event: ======'player_turn_started'====== Args={'player': <Player 1>, 'number': 1}
+2026-04-15 20:38:44,730 : INFO : EventManager : Event: ======'ball_will_start'====== Args={'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,736 : INFO : EventManager : Event: ======'ball_starting'====== Args={'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,736 : INFO : EventManager : Event: ======'mode_base_will_start'====== Args={'queue': <QueuedEvent>, 'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,736 : DEBUG : Player : Setting 'shot_homer_h_enabled' to: True, (prior: 0, change: 1)
+2026-04-15 20:38:44,736 : INFO : EventManager : Event: ======'player_shot_homer_h_enabled'====== Args={'value': True, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:38:44,744 : INFO : EventManager : Event: ======'mode_base_starting'====== Args={'queue': <QueuedEvent>, 'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,745 : INFO : Mode.base : Started. Priority: 100
+2026-04-15 20:38:44,745 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:38:44,745 : INFO : EventManager : Event: ======'mode_base_started'====== Args={'queue': <QueuedEvent>, 'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,746 : INFO : EventManager : Event: ======'start_mode_slingshots'====== Args={'priority': 0}
+2026-04-15 20:38:44,746 : INFO : EventManager : Event: ======'mode_slingshots_will_start'====== Args={'priority': 0}
+2026-04-15 20:38:44,746 : DEBUG : Player : Setting 'shot_slingshot_left_enabled' to: True, (prior: 0, change: 1)
+2026-04-15 20:38:44,746 : INFO : EventManager : Event: ======'player_shot_slingshot_left_enabled'====== Args={'value': True, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:38:44,747 : DEBUG : Player : Setting 'shot_slingshot_right_enabled' to: True, (prior: 0, change: 1)
+2026-04-15 20:38:44,747 : INFO : EventManager : Event: ======'player_shot_slingshot_right_enabled'====== Args={'value': True, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:38:44,747 : INFO : EventManager : Event: ======'slingshots_complete'====== Args={'state': 'unlit'}
+2026-04-15 20:38:44,747 : INFO : EventManager : Event: ======'slingshots_unlit_complete'====== Args={}
+2026-04-15 20:38:44,748 : INFO : EventManager : Event: ======'mode_slingshots_starting'====== Args={'priority': 0}
+2026-04-15 20:38:44,748 : INFO : Mode.slingshots : Started. Priority: 200
+2026-04-15 20:38:44,748 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:38:44,748 : INFO : EventManager : Event: ======'mode_slingshots_started'====== Args={'priority': 0}
+2026-04-15 20:38:44,749 : INFO : EventManager : Event: ======'balls_in_play'====== Args={'balls': 1}
+2026-04-15 20:38:44,749 : INFO : EventManager : Event: ======'ball_started'====== Args={'player': 1, 'ball': 1, 'balls_remaining': 2, 'is_extra_ball': False}
+2026-04-15 20:38:44,798 : INFO : EventManager : Event: ======'single_player_ball_started'====== Args={}
+2026-04-15 20:38:44,799 : INFO : EventManager : Event: ======'slide_base_slide_created'====== Args={'_from_bcp': True}
+2026-04-15 20:38:44,799 : INFO : EventManager : Event: ======'slide_attract_inactive'====== Args={'is_removing': True, '_from_bcp': True}
+2026-04-15 20:38:44,799 : INFO : EventManager : Event: ======'slide_base_slide_active'====== Args={'original_context': 'base', 'original_calling_context': 'mode_base_started', 'priority': 100.0, 'queue': '<QueuedEvent>', 'player': 1.0, 'ball': 1.0, 'balls_remaining': 2.0, 'is_extra_ball': False, 'cmd': 'slides_play', '_from_bcp': True}
+2026-04-15 20:38:44,799 : INFO : EventManager : Event: ======'slide_attract_removed'====== Args={'_from_bcp': True}
+2026-04-15 20:38:44,799 : INFO : EventManager : Event: ======'ball_start_target'====== Args={'target': 'playfield'}
+2026-04-15 20:38:44,800 : INFO : ball_device.bd_plunger : Setting up player-controlled eject. Balls: 1, Target: <playfield.playfield>, player_controlled_eject_event: None
+2026-04-15 20:38:44,800 : INFO : EventManager : Event: ======'balldevice_balls_available'====== Args={}
+2026-04-15 20:38:44,801 : INFO : ball_device.bd_trough : State: waiting_for_target_ready
+2026-04-15 20:38:44,801 : INFO : EventManager : Event: ======'balldevice_bd_trough_ball_eject_attempt'====== Args={'balls': 1, 'target': <ball_device.bd_plunger>, 'source': <ball_device.bd_trough>, 'mechanical_eject': True, 'num_attempts': 0}
+2026-04-15 20:38:44,801 : INFO : ball_device.bd_plunger : State: waiting_for_ball
+2026-04-15 20:38:44,802 : INFO : ball_device.bd_trough : State: ejecting
+2026-04-15 20:38:44,802 : INFO : ball_device.bd_trough : Ejecting ball to <ball_device.bd_plunger>
+2026-04-15 20:38:44,802 : INFO : EventManager : Event: ======'balldevice_bd_trough_ejecting_ball'====== Args={'balls': 1, 'target': <ball_device.bd_plunger>, 'source': <ball_device.bd_trough>, 'mechanical_eject': True, 'num_attempts': 0}
+2026-04-15 20:38:44,802 : DEBUG : SmartVirtual Coil Action : Setting eject target. bd_trough -> bd_plunger. Mechanical: True
+2026-04-15 20:38:44,802 : INFO : ball_device.bd_trough : Wait for ball to leave device
+2026-04-15 20:38:44,803 : INFO : coil.c_trough_release : Pulsing Driver for 20ms (1.0 pulse_power)
+2026-04-15 20:38:44,803 : DEBUG : VirtualDriver.1-0-7 : Pulsing driver for 20ms
+2026-04-15 20:38:44,803 : DEBUG : SmartVirtual Coil Action : Removing ball from device bd_trough
+2026-04-15 20:38:44,803 : INFO : SwitchController : <<<<<<< 's_trough_1' inactive >>>>>>>
+2026-04-15 20:38:44,803 : DEBUG : SmartVirtual Coil Action : Deactivating: s_trough_1
+2026-04-15 20:38:44,804 : DEBUG : SmartVirtual Coil Action : Adding delay for bd_plunger to receive ball in 100ms
+2026-04-15 20:38:44,813 : INFO : ball_device.bd_trough : State: ball_left
+2026-04-15 20:38:44,813 : INFO : ball_device.bd_trough : Ball left
+2026-04-15 20:38:44,813 : INFO : ball_device.bd_trough : Wait for confirm with timeout 3.0
+2026-04-15 20:38:44,901 : INFO : SwitchController : <<<<<<< 's_plunger_lane' active >>>>>>>
+2026-04-15 20:38:44,902 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 5, 'prev_value': 4, 'change': 1}
+2026-04-15 20:38:45,403 : INFO : ball_device.bd_plunger : Received ball from <ball_device.bd_trough>
+2026-04-15 20:38:45,404 : INFO : EventManager : Event: ======'balldevice_bd_plunger_ball_enter'====== Args={'new_balls': 1, 'unclaimed_balls': 0, 'new_available_balls': 0, 'device': <ball_device.bd_plunger>}
+2026-04-15 20:38:45,404 : INFO : EventManager : Event: ======'balldevice_bd_plunger_ball_entered'====== Args={'new_balls': 0, 'device': <ball_device.bd_plunger>}
+2026-04-15 20:38:45,405 : INFO : EventManager : Event: ======'balldevice_bd_plunger_ball_count_changed'====== Args={'balls': 1}
+2026-04-15 20:38:45,405 : INFO : ball_device.bd_trough : Got eject confirm
+2026-04-15 20:38:45,405 : INFO : ball_device.bd_trough : Eject successful
+2026-04-15 20:38:45,405 : INFO : EventManager : Event: ======'balldevice_bd_trough_ball_eject_success'====== Args={'balls': 1, 'target': <ball_device.bd_plunger>}
+2026-04-15 20:38:45,405 : INFO : ball_device.bd_plunger : State: waiting_for_target_ready
+2026-04-15 20:38:45,405 : INFO : EventManager : Event: ======'balldevice_bd_plunger_ball_eject_attempt'====== Args={'balls': 1, 'target': <playfield.playfield>, 'source': <ball_device.bd_plunger>, 'mechanical_eject': True, 'num_attempts': 0}
+2026-04-15 20:38:45,405 : INFO : EventManager : Event: ======'balldevice_bd_trough_ball_count_changed'====== Args={'balls': 2}
+2026-04-15 20:38:45,405 : INFO : ball_device.bd_trough : State: idle
+2026-04-15 20:38:45,406 : INFO : ball_device.bd_plunger : State: ejecting
+2026-04-15 20:38:45,406 : INFO : ball_device.bd_plunger : Ejecting ball to <playfield.playfield>
+2026-04-15 20:38:45,406 : INFO : EventManager : Event: ======'balldevice_bd_plunger_ejecting_ball'====== Args={'balls': 1, 'target': <playfield.playfield>, 'source': <ball_device.bd_plunger>, 'mechanical_eject': True, 'num_attempts': 0}
+2026-04-15 20:38:45,406 : DEBUG : SmartVirtual Coil Action : Setting eject target. bd_plunger -> playfield. Mechanical: True
+2026-04-15 20:38:45,407 : INFO : ball_device.bd_plunger : Wait for ball to leave device
+2026-04-15 20:38:45,711 : INFO : SwitchController : <<<<<<< 's_sling_left' active >>>>>>>
+2026-04-15 20:38:45,712 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'slingshot_left'}
+2026-04-15 20:38:45,712 : INFO : EventManager : Event: ======'s_sling_left_active'====== Args={}
+2026-04-15 20:38:45,712 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_left'====== Args={'value': 42, 'prev_value': 41, 'change': 1}
+2026-04-15 20:38:45,713 : DEBUG : Player : Setting 'shot_slingshot_left' to: 1, (prior: 0, change: 1)
+2026-04-15 20:38:45,713 : INFO : EventManager : Event: ======'player_shot_slingshot_left'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:38:45,713 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_left'====== Args={'value': 42, 'prev_value': 41, 'change': 1}
+2026-04-15 20:38:45,713 : INFO : EventManager : Event: ======'slingshot_left_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:38:45,713 : INFO : EventManager : Event: ======'slingshot_left_default_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:38:45,713 : INFO : EventManager : Event: ======'slingshot_left_default_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:38:45,714 : INFO : EventManager : Event: ======'slingshot_left_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:38:45,714 : INFO : EventManager : Event: ======'slingshots_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:38:45,714 : INFO : EventManager : Event: ======'slingshots_unlit_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:38:45,714 : DEBUG : Player : Setting 'score' to: 1000, (prior: 0, change: 1000)
+2026-04-15 20:38:45,714 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 1000, 'prev_value': 0, 'change': 1000, 'player_num': 1, 'source': 'slingshots'}
+2026-04-15 20:38:45,795 : INFO : SwitchController : <<<<<<< 's_sling_left' inactive >>>>>>>
+2026-04-15 20:38:46,929 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-04-15 20:38:46,930 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 5, 'prev_value': 4, 'change': 1}
+2026-04-15 20:38:47,013 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-04-15 20:38:47,645 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-04-15 20:38:47,646 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_right'====== Args={'value': 3, 'prev_value': 2, 'change': 1}
+2026-04-15 20:38:47,729 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-04-15 20:39:29,371 : DEBUG : asciimatics.screen : Processing key: 31
+2026-04-15 20:39:29,372 : DEBUG : asciimatics.widgets.frame : New event: KeyboardEvent: 49
+2026-04-15 20:39:30,345 : DEBUG : asciimatics.screen : Processing key: 31
+2026-04-15 20:39:31,361 : DEBUG : asciimatics.screen : Processing mouse: 54, 25
+2026-04-15 20:39:31,363 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (54, 25) 0
+2026-04-15 20:39:32,358 : DEBUG : asciimatics.screen : Processing mouse: 54, 25
+2026-04-15 20:39:32,360 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (54, 25) 1
+2026-04-15 20:39:32,361 : DEBUG : asciimatics.widgets.frame : Blurring: [<asciimatics.widgets.frame.Frame object at 0x000001C848B36800>]
+2026-04-15 20:39:32,362 : DEBUG : asciimatics.screen : Processing mouse: 54, 25
+2026-04-15 20:39:32,362 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (54, 25) 0
+2026-04-15 20:39:32,363 : DEBUG : asciimatics.screen : Processing key: 32
+2026-04-15 20:39:32,363 : DEBUG : asciimatics.widgets.frame : New event: KeyboardEvent: 50
+2026-04-15 20:39:32,363 : DEBUG : asciimatics.screen : Processing key: 32
+2026-04-15 20:39:33,347 : DEBUG : asciimatics.screen : Processing mouse: 63, 29
+2026-04-15 20:39:33,347 : DEBUG : asciimatics.widgets.frame : New event: MouseEvent (63, 29) 0
+2026-04-15 20:39:39,211 : INFO : SwitchController : <<<<<<< 's_sling_left' active >>>>>>>
+2026-04-15 20:39:39,212 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'slingshot_left'}
+2026-04-15 20:39:39,212 : INFO : EventManager : Event: ======'s_sling_left_active'====== Args={}
+2026-04-15 20:39:39,212 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_left'====== Args={'value': 43, 'prev_value': 42, 'change': 1}
+2026-04-15 20:39:39,214 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_left'====== Args={'value': 43, 'prev_value': 42, 'change': 1}
+2026-04-15 20:39:39,214 : INFO : EventManager : Event: ======'slingshot_left_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,214 : INFO : EventManager : Event: ======'slingshot_left_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,214 : INFO : EventManager : Event: ======'slingshot_left_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,215 : INFO : EventManager : Event: ======'slingshot_left_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,215 : INFO : EventManager : Event: ======'slingshots_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:39:39,215 : INFO : EventManager : Event: ======'slingshots_lit_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:39:39,215 : DEBUG : Player : Setting 'score' to: 2000, (prior: 1000, change: 1000)
+2026-04-15 20:39:39,215 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 2000, 'prev_value': 1000, 'change': 1000, 'player_num': 1, 'source': 'slingshots'}
+2026-04-15 20:39:39,295 : INFO : SwitchController : <<<<<<< 's_sling_left' inactive >>>>>>>
+2026-04-15 20:39:39,911 : INFO : SwitchController : <<<<<<< 's_sling_left' active >>>>>>>
+2026-04-15 20:39:39,911 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'slingshot_left'}
+2026-04-15 20:39:39,911 : INFO : EventManager : Event: ======'s_sling_left_active'====== Args={}
+2026-04-15 20:39:39,912 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_left'====== Args={'value': 44, 'prev_value': 43, 'change': 1}
+2026-04-15 20:39:39,912 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_left'====== Args={'value': 44, 'prev_value': 43, 'change': 1}
+2026-04-15 20:39:39,912 : INFO : EventManager : Event: ======'slingshot_left_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,912 : INFO : EventManager : Event: ======'slingshot_left_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,913 : INFO : EventManager : Event: ======'slingshot_left_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,913 : INFO : EventManager : Event: ======'slingshot_left_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:39,913 : INFO : EventManager : Event: ======'slingshots_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:39:39,913 : INFO : EventManager : Event: ======'slingshots_lit_hit'====== Args={'shot': 'slingshot_left'}
+2026-04-15 20:39:39,913 : DEBUG : Player : Setting 'score' to: 3000, (prior: 2000, change: 1000)
+2026-04-15 20:39:39,913 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 3000, 'prev_value': 2000, 'change': 1000, 'player_num': 1, 'source': 'slingshots'}
+2026-04-15 20:39:39,995 : INFO : SwitchController : <<<<<<< 's_sling_left' inactive >>>>>>>
+2026-04-15 20:39:40,961 : INFO : SwitchController : <<<<<<< 's_sling_right' active >>>>>>>
+2026-04-15 20:39:40,961 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'slingshot_right'}
+2026-04-15 20:39:40,961 : INFO : EventManager : Event: ======'s_sling_right_active'====== Args={}
+2026-04-15 20:39:40,961 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_sling_right'====== Args={'value': 34, 'prev_value': 33, 'change': 1}
+2026-04-15 20:39:40,962 : DEBUG : Player : Setting 'shot_slingshot_right' to: 1, (prior: 0, change: 1)
+2026-04-15 20:39:40,962 : INFO : EventManager : Event: ======'player_shot_slingshot_right'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:40,962 : INFO : EventManager : Event: ======'machine_var_audits_shots_slingshot_right'====== Args={'value': 34, 'prev_value': 33, 'change': 1}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshot_right_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshot_right_default_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshot_right_default_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshot_right_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshots_complete'====== Args={'state': 'lit'}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshots_lit_complete'====== Args={}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshots_hit'====== Args={'shot': 'slingshot_right'}
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'slingshots_unlit_hit'====== Args={'shot': 'slingshot_right'}
+2026-04-15 20:39:40,964 : DEBUG : Player : Setting 'score' to: 4000, (prior: 3000, change: 1000)
+2026-04-15 20:39:40,964 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 4000, 'prev_value': 3000, 'change': 1000, 'player_num': 1, 'source': 'slingshots'}
+2026-04-15 20:39:41,079 : INFO : SwitchController : <<<<<<< 's_sling_right' inactive >>>>>>>
+2026-04-15 20:39:42,177 : INFO : SwitchController : <<<<<<< 's_homer_h' active >>>>>>>
+2026-04-15 20:39:42,178 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'homer_h'}
+2026-04-15 20:39:42,178 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'hurryup'}
+2026-04-15 20:39:42,178 : INFO : EventManager : Event: ======'s_homer_h_active'====== Args={}
+2026-04-15 20:39:42,178 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 19, 'prev_value': 18, 'change': 1}
+2026-04-15 20:39:42,180 : DEBUG : Player : Setting 'shot_homer_h' to: 1, (prior: 0, change: 1)
+2026-04-15 20:39:42,180 : INFO : EventManager : Event: ======'player_shot_homer_h'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,180 : INFO : EventManager : Event: ======'machine_var_audits_shots_homer_h'====== Args={'value': 19, 'prev_value': 18, 'change': 1}
+2026-04-15 20:39:42,180 : INFO : EventManager : Event: ======'homer_h_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'homer_h_default_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'homer_h_default_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'homer_h_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'start_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'mode_hurryup_will_start'====== Args={'priority': 0}
+2026-04-15 20:39:42,181 : DEBUG : Player : Setting 'shot_hurryup_enabled' to: True, (prior: 0, change: 1)
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'player_shot_hurryup_enabled'====== Args={'value': True, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,181 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 0, (prior: 0, change: 0)
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 0, 'prev_value': 0, 'change': 0, 'player_num': 1}
+2026-04-15 20:39:42,181 : INFO : Timer.hurryup_timer : Starting Timer.
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'timer_hurryup_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 25}
+2026-04-15 20:39:42,181 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 25}
+2026-04-15 20:39:42,182 : INFO : EventManager : Event: ======'mode_hurryup_starting'====== Args={'priority': 0}
+2026-04-15 20:39:42,183 : INFO : Mode.hurryup : Started. Priority: 1000
+2026-04-15 20:39:42,183 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:42,183 : INFO : EventManager : Event: ======'mode_hurryup_started'====== Args={'priority': 0}
+2026-04-15 20:39:42,200 : INFO : EventManager : Event: ======'slide_hurryup_created'====== Args={'_from_bcp': True}
+2026-04-15 20:39:42,200 : INFO : EventManager : Event: ======'slide_base_slide_inactive'====== Args={'is_removing': False, '_from_bcp': True}
+2026-04-15 20:39:42,200 : INFO : EventManager : Event: ======'slide_hurryup_active'====== Args={'original_context': 'hurryup', 'original_calling_context': 'mode_hurryup_started', 'priority': 1000.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-04-15 20:39:42,311 : INFO : SwitchController : <<<<<<< 's_homer_h' inactive >>>>>>>
+2026-04-15 20:39:42,373 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 1, (prior: 0, change: 1)
+2026-04-15 20:39:42,373 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,374 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 1, 'ticks_remaining': 24}
+2026-04-15 20:39:42,374 : INFO : EventManager : Event: ======'hurryup_value'====== Args={'priority': 0, 'current_hurryup': 98000}
+2026-04-15 20:39:42,579 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 2, (prior: 1, change: 1)
+2026-04-15 20:39:42,579 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 2, 'prev_value': 1, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,579 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 2, 'ticks_remaining': 23}
+2026-04-15 20:39:42,580 : INFO : EventManager : Event: ======'hurryup_value'====== Args={'priority': 0, 'current_hurryup': 96000}
+2026-04-15 20:39:42,788 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 3, (prior: 2, change: 1)
+2026-04-15 20:39:42,788 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 3, 'prev_value': 2, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,789 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 3, 'ticks_remaining': 22}
+2026-04-15 20:39:42,790 : INFO : EventManager : Event: ======'hurryup_value'====== Args={'priority': 0, 'current_hurryup': 94000}
+2026-04-15 20:39:42,986 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 4, (prior: 3, change: 1)
+2026-04-15 20:39:42,987 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 4, 'prev_value': 3, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:42,988 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 4, 'ticks_remaining': 21}
+2026-04-15 20:39:42,989 : INFO : EventManager : Event: ======'hurryup_value'====== Args={'priority': 0, 'current_hurryup': 92000}
+2026-04-15 20:39:43,077 : INFO : SwitchController : <<<<<<< 's_homer_h' active >>>>>>>
+2026-04-15 20:39:43,078 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'homer_h'}
+2026-04-15 20:39:43,078 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'hurryup'}
+2026-04-15 20:39:43,078 : INFO : EventManager : Event: ======'s_homer_h_active'====== Args={}
+2026-04-15 20:39:43,078 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 20, 'prev_value': 19, 'change': 1}
+2026-04-15 20:39:43,078 : DEBUG : Player : Setting 'shot_hurryup' to: 1, (prior: 0, change: 1)
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'player_shot_hurryup'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'machine_var_audits_shots_hurryup'====== Args={'value': 9, 'prev_value': 8, 'change': 1}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'hurryup_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'hurryup_default_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'hurryup_default_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'hurryup_unlit_hit'====== Args={'profile': 'default', 'state': 'unlit', 'advancing': True}
+2026-04-15 20:39:43,079 : INFO : EventManager : Event: ======'machine_var_audits_shots_homer_h'====== Args={'value': 20, 'prev_value': 19, 'change': 1}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'homer_h_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'homer_h_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'homer_h_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'homer_h_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'stop_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:43,080 : DEBUG : Player : Setting 'score' to: 96000, (prior: 4000, change: 92000)
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 96000, 'prev_value': 4000, 'change': 92000, 'player_num': 1, 'source': 'hurryup'}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'mode_hurryup_will_stop'====== Args={}
+2026-04-15 20:39:43,080 : INFO : EventManager : Event: ======'mode_hurryup_stopping'====== Args={}
+2026-04-15 20:39:43,081 : INFO : EventManager : Event: ======'start_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:43,081 : INFO : Mode.hurryup : Stopped.
+2026-04-15 20:39:43,082 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:43,082 : INFO : EventManager : Event: ======'mode_hurryup_stopped'====== Args={}
+2026-04-15 20:39:43,082 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'hurryup'}
+2026-04-15 20:39:43,082 : INFO : Timer.hurryup_timer : Stopping Timer
+2026-04-15 20:39:43,082 : INFO : EventManager : Event: ======'timer_hurryup_timer_stopped'====== Args={'ticks': 4, 'ticks_remaining': 21}
+2026-04-15 20:39:43,105 : INFO : EventManager : Event: ======'slide_hurryup_inactive'====== Args={'is_removing': True, '_from_bcp': True}
+2026-04-15 20:39:43,105 : INFO : EventManager : Event: ======'slide_base_slide_active'====== Args={'_from_bcp': True}
+2026-04-15 20:39:43,105 : INFO : EventManager : Event: ======'slide_hurryup_removed'====== Args={'_from_bcp': True}
+2026-04-15 20:39:43,178 : INFO : SwitchController : <<<<<<< 's_homer_h' inactive >>>>>>>
+2026-04-15 20:39:44,528 : INFO : SwitchController : <<<<<<< 's_homer_h' active >>>>>>>
+2026-04-15 20:39:44,529 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'homer_h'}
+2026-04-15 20:39:44,529 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'hurryup'}
+2026-04-15 20:39:44,529 : INFO : EventManager : Event: ======'s_homer_h_active'====== Args={}
+2026-04-15 20:39:44,529 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 21, 'prev_value': 20, 'change': 1}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'machine_var_audits_shots_homer_h'====== Args={'value': 21, 'prev_value': 20, 'change': 1}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'homer_h_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'homer_h_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'homer_h_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'homer_h_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'start_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:44,531 : INFO : EventManager : Event: ======'mode_hurryup_will_start'====== Args={'priority': 0}
+2026-04-15 20:39:44,532 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 0, (prior: 4, change: -4)
+2026-04-15 20:39:44,532 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 0, 'prev_value': 4, 'change': -4, 'player_num': 1}
+2026-04-15 20:39:44,532 : INFO : Timer.hurryup_timer : Starting Timer.
+2026-04-15 20:39:44,532 : INFO : EventManager : Event: ======'timer_hurryup_timer_started'====== Args={'ticks': 0, 'ticks_remaining': 25}
+2026-04-15 20:39:44,532 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 0, 'ticks_remaining': 25}
+2026-04-15 20:39:44,533 : INFO : EventManager : Event: ======'mode_hurryup_starting'====== Args={'priority': 0}
+2026-04-15 20:39:44,534 : INFO : Mode.hurryup : Started. Priority: 1000
+2026-04-15 20:39:44,534 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:44,534 : INFO : EventManager : Event: ======'mode_hurryup_started'====== Args={'priority': 0}
+2026-04-15 20:39:44,552 : INFO : EventManager : Event: ======'slide_hurryup_created'====== Args={'_from_bcp': True}
+2026-04-15 20:39:44,552 : INFO : EventManager : Event: ======'slide_base_slide_inactive'====== Args={'is_removing': False, '_from_bcp': True}
+2026-04-15 20:39:44,552 : INFO : EventManager : Event: ======'slide_hurryup_active'====== Args={'original_context': 'hurryup', 'original_calling_context': 'mode_hurryup_started', 'priority': 1000.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-04-15 20:39:44,628 : INFO : SwitchController : <<<<<<< 's_homer_h' inactive >>>>>>>
+2026-04-15 20:39:44,744 : DEBUG : Player : Setting 'hurryup_hurryup_timer_tick' to: 1, (prior: 0, change: 1)
+2026-04-15 20:39:44,745 : INFO : EventManager : Event: ======'player_hurryup_hurryup_timer_tick'====== Args={'value': 1, 'prev_value': 0, 'change': 1, 'player_num': 1}
+2026-04-15 20:39:44,746 : INFO : EventManager : Event: ======'timer_hurryup_timer_tick'====== Args={'ticks': 1, 'ticks_remaining': 24}
+2026-04-15 20:39:44,748 : INFO : EventManager : Event: ======'hurryup_value'====== Args={'priority': 0, 'current_hurryup': 98000}
+2026-04-15 20:39:44,844 : INFO : SwitchController : <<<<<<< 's_homer_h' active >>>>>>>
+2026-04-15 20:39:44,845 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'homer_h'}
+2026-04-15 20:39:44,845 : INFO : EventManager : Event: ======'playfield_active'====== Args={'source': 'hurryup'}
+2026-04-15 20:39:44,845 : INFO : EventManager : Event: ======'s_homer_h_active'====== Args={}
+2026-04-15 20:39:44,845 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_homer_h'====== Args={'value': 22, 'prev_value': 21, 'change': 1}
+2026-04-15 20:39:44,846 : INFO : EventManager : Event: ======'machine_var_audits_shots_hurryup'====== Args={'value': 10, 'prev_value': 9, 'change': 1}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'hurryup_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'hurryup_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'hurryup_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'hurryup_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'machine_var_audits_shots_homer_h'====== Args={'value': 22, 'prev_value': 21, 'change': 1}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'homer_h_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'homer_h_default_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,847 : INFO : EventManager : Event: ======'homer_h_default_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,848 : INFO : EventManager : Event: ======'homer_h_lit_hit'====== Args={'profile': 'default', 'state': 'lit', 'advancing': False}
+2026-04-15 20:39:44,848 : INFO : EventManager : Event: ======'stop_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:44,848 : DEBUG : Player : Setting 'score' to: 194000, (prior: 96000, change: 98000)
+2026-04-15 20:39:44,848 : INFO : EventManager : Event: ======'player_score'====== Args={'value': 194000, 'prev_value': 96000, 'change': 98000, 'player_num': 1, 'source': 'hurryup'}
+2026-04-15 20:39:44,848 : INFO : EventManager : Event: ======'mode_hurryup_will_stop'====== Args={}
+2026-04-15 20:39:44,848 : INFO : EventManager : Event: ======'mode_hurryup_stopping'====== Args={}
+2026-04-15 20:39:44,849 : INFO : EventManager : Event: ======'start_mode_hurryup'====== Args={'priority': 0}
+2026-04-15 20:39:44,850 : INFO : Mode.hurryup : Stopped.
+2026-04-15 20:39:44,850 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:44,850 : INFO : EventManager : Event: ======'mode_hurryup_stopped'====== Args={}
+2026-04-15 20:39:44,850 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'hurryup'}
+2026-04-15 20:39:44,850 : INFO : Timer.hurryup_timer : Stopping Timer
+2026-04-15 20:39:44,850 : INFO : EventManager : Event: ======'timer_hurryup_timer_stopped'====== Args={'ticks': 1, 'ticks_remaining': 24}
+2026-04-15 20:39:44,902 : INFO : EventManager : Event: ======'slide_hurryup_inactive'====== Args={'is_removing': True, '_from_bcp': True}
+2026-04-15 20:39:44,904 : INFO : EventManager : Event: ======'slide_base_slide_active'====== Args={'_from_bcp': True}
+2026-04-15 20:39:44,904 : INFO : EventManager : Event: ======'slide_hurryup_removed'====== Args={'_from_bcp': True}
+2026-04-15 20:39:44,945 : INFO : SwitchController : <<<<<<< 's_homer_h' inactive >>>>>>>
+2026-04-15 20:39:56,676 : INFO : Machine : Shutting down...
+2026-04-15 20:39:56,678 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-04-15 20:39:56,679 : INFO : EventManager : Event: ======'mode_game_will_stop'====== Args={}
+2026-04-15 20:39:56,679 : INFO : EventManager : Event: ======'mode_game_stopping'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'mode_base_will_stop'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'mode_base_stopping'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'mode_slingshots_will_stop'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'mode_slingshots_stopping'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'stop_mode_slingshots'====== Args={'priority': 0}
+2026-04-15 20:39:56,680 : INFO : Mode.slingshots : Stopped.
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'mode_slingshots_stopped'====== Args={}
+2026-04-15 20:39:56,680 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'slingshots'}
+2026-04-15 20:39:56,680 : INFO : Mode.base : Stopped.
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'mode_base_stopped'====== Args={}
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'base'}
+2026-04-15 20:39:56,681 : INFO : Mode.game : Stopped.
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'mode_game_stopped'====== Args={}
+2026-04-15 20:39:56,681 : INFO : EventManager : Event: ======'clear'====== Args={'key': 'game'}
+2026-04-15 20:39:56,683 : INFO : root : MPF run loop ended.
