@@ -8,6 +8,7 @@ opp:
   ports:
     - COM4
     - COM5 
+  debug: true  
   baud: 115200  
 
 machine:
