@@ -47,7 +47,6 @@ func _ready() -> void:
 	if min_digits > 0:
 		var_template = ("%0"+str(min_digits)+"d")
 	if variable_type == VariableType.MACHINE_VAR:
-
 		self.update_text(MPF.game.machine_vars.get(self.variable_name))
 		MPF.game.connect("machine_update", self._on_machine_update)
 	elif variable_type == VariableType.EVENT_ARG:

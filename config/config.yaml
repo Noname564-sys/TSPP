@@ -1,41 +1,12 @@
 #config_version=6
 
-hardware:
-  platform: opp
-  driverboards: gen2    
-
-opp:
-  ports:
-    - COM4
-    - COM5 
-  debug: true  
-  baud: 115200  
-
-machine:
-  balls_installed: 3 
-  min_balls: 1   
-
-config:
-  - config_ball_devices.yaml
-  - config_coils.yaml
-  - config_switches.yaml
-  - config_common.yaml
-
+## MPF Main Machine Config File
+#
+# This file defines your system-wide properties like switches,
+# drivers, ball devices, hardware platforms, and more. You can
+# include everything here, or create sub-config files to be
+# imported and merged with this one.
 
 modes:
   - attract
   - base
-  - slingshots
-  - hurryup
-
-playfields:
-  playfield:
-    default_source_device: bd_plunger
-    tags: default 
-
-
-
-virtual_platform_start_active_switches:
-  - s_trough_1
-  - s_trough_2
-  - s_trough_3        

@@ -1,5 +1,0 @@
-2026-04-14 15:41:02,629 : INFO : root : Loading config.
-2026-04-14 15:41:02,632 : INFO : YamlMultifileConfigLoader : Machine config file #1: ore
-2026-04-14 15:41:02,632 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml.
-2026-04-14 15:41:02,644 : INFO : ConfigProcessor : Loading config: C:\Users\Lukas\mpftspp\lib\site-packages\mpf\mpfconfig.yaml
-2026-04-14 15:41:02,645 : INFO : ConfigProcessor : Loading config from file C:\Users\Lukas\Documents\TSPP\config\ore.

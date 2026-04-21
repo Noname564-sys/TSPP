@@ -11,18 +11,12 @@ config_version=5
 [application]
 
 config/name="TSPP"
-run/main_scene="uid://ds4gduf8660uj"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
 
 [autoload]
 
 MPF="*uid://c05iybd1a77mc"
-
-[display]
-
-window/size/viewport_width=1480
-window/size/viewport_height=320
 
 [editor_plugins]
 
